@@ -1,7 +1,4 @@
-# drivers-sdpdvpro
-Drivers de impressoras e periféricos para o SDPdvPro
-
-# Drivers SDPdvPro
+# Drivers-SDPDVPRO
 
 Repositório oficial de drivers de impressoras e periféricos utilizados no SDPdvPro.
 
