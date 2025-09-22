@@ -5,8 +5,8 @@ Repositório oficial de drivers de impressoras e periféricos utilizados no SDPd
 ## 🖨️ Impressoras 
 
 ###  🖨️ Epson
-- [TM-T20 Windows 10](Epson/epson_tm_t20_win10.zip)
-- [TM-T20 Ubuntu 24.04](Epson/epson_tm_t20_ubuntu.tar.gz)
+- [TM-T20X Windows 10/11](Epson/epson_tm_t20_win10.zip)
+- [TM-T20 Windows 10/11(Epson/epson_tm_t20_ubuntu.tar.gz)
 
 ### 🖨️ Bematech
 - [MP-4200 Windows 11](Bematech/bematech_mp4200_win11.zip)
