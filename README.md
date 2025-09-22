@@ -5,14 +5,17 @@ Repositório oficial de drivers de impressoras e periféricos utilizados no SDPd
 ## 🖨️ Impressoras 
 
 ###  🖨️ EPSON
-- [TM-T20X Windows 10/11](Epson/epson_tm_t20_win10.zip)
-- [TM-T20 Windows 10/11]()
+- [TM-T20X Windows 10/11](EPSON%TM20X/)
+- [TM-T20 Windows 10/11](EPSON%TM20/)
 
 ###  🖨️ ELGIN
+- [ELGIN I9](ELGINI9/)
+- [ELGIN I8](ELGINI8/)
 
 ### 🖨️ BEMATECH
-- [MP-4200 Windows 11](Bematech/bematech_mp4200_win11.zip)
-- [MP-4200 Ubuntu](Bematech/bematech_mp4200_ubuntu.deb)
+- [MP-4200 TH](EM TESTES)
 
 ### 🖨️ DARUMA
-- [Drivers gerais](Daruma/daruma_drivers.zip)
+- [DR 700 D](DARUMA%DR%700D/)
+- [DR 800 D](DARUMA%DR%800D/)
+
