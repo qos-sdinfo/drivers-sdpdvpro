@@ -13,7 +13,7 @@ Repositório oficial de drivers de impressoras e periféricos utilizados no SDPd
 - [ELGIN I8](ELGIN%20I8/)
 
 ### 🖨️ BEMATECH
-- [MP-4200 TH](EM TESTES)
+- [MP-4200 TH]
 
 ### 🖨️ DARUMA
 - [DR 700 D](DARUMA%20DR%20700D/)
