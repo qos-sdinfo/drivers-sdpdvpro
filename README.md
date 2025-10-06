@@ -13,7 +13,7 @@ Repositório oficial de drivers de impressoras e periféricos utilizados no SDPd
 - [ELGIN I8](ELGIN%20I8/)
 
 ### 🖨️ BEMATECH - ATENÇÃO NESSA IMPRESSORA, MUDE PARA XON/XOFF e para ESC/POS.
-- [MP-4200 TH]
+- [BEMATECH 4200 TH](BEMATECH%204200%20TH/)
 
 ### 🖨️ DARUMA
 - [DR 700 D](DARUMA%20DR%20700D/)
